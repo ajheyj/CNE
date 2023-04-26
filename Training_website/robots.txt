@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /this_folder_is_not_allowed
+Allow: /this_folder_is_allowed
