@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#command to automatically connect to a wifi network after treadnet has been plugged in
+sudo nmcli device wifi connect "Bay Wifi3_5G" password Password3
