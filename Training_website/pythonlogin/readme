@@ -19,3 +19,7 @@ Run command: set FLASK_APP=main.py
 Run command: set FLASK_DEBUG=1
 Run command: flask run
 Debug mode will enable us to edit our files without constantly restarting the web server.
+
+
+for refrence see
+https://codeshack.io/login-system-python-flask-mysql/
